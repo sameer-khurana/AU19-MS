@@ -1,6 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
+// Added this line after cloning 
 
 class LiftPair implements Comparable<LiftPair> {
     private final int index;
